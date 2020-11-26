@@ -10,13 +10,13 @@
                 "talent_material_id_name":"",
                 "enemy_material":"",
                 "boss_material":"",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":,
                 "atk":,
                 "def":,
-                "固有ステータス":""
+                "special_ascension_type":""
             },
             "special_dish":{
                 "":""
@@ -35,7 +35,7 @@
                 "1":"",
                 "2":""
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":,
                 "":
             }

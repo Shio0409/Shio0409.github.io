@@ -11,13 +11,13 @@
                 "talent_material_id_name":"自由",
                 "enemy_material_id_name":"絵巻",
                 "boss_material":"北風のリング",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":801,
                 "atk":47,
                 "def":48,
-                "固有ステータス":"炎元素ダメージバフ（％）"
+                "special_ascension_type":"炎元素ダメージバフ（％）"
             },
             "special_dish":[
                 "魚香トースト",
@@ -38,13 +38,13 @@
                 "talent_material_id_name":"抗争",
                 "enemy_material_id_name":"記章",
                 "boss_material":"東風の羽根",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1011,
                 "atk":26,
                 "def":61,
-                "固有ステータス":"会心率（％）"
+                "special_ascension_type":"会心率（％）"
             },
             "special_dish":[
                 "モンドの過去",
@@ -65,13 +65,13 @@
                 "talent_material_id_name":"抗争",
                 "enemy_material_id_name":"蜜",
                 "boss_material":"北風のリング",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":810,
                 "atk":23,
                 "def":51,
-                "固有ステータス":"元素チャージ効率（％）"
+                "special_ascension_type":"元素チャージ効率（％）"
             },
             "special_dish":[
                 "最高の知恵・生活",
@@ -92,13 +92,13 @@
                 "talent_material_id_name":"自由",
                 "enemy_material_id_name":"記章",
                 "boss_material":"魔王の刃・残片",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1020,
                 "atk":23,
                 "def":63,
-                "固有ステータス":"水元素ダメージバフ（％）"
+                "special_ascension_type":"水元素ダメージバフ（％）"
             },
             "special_dish":[
                 "極みの一釣り",
@@ -119,13 +119,13 @@
                 "talent_material_id_name":"繁栄",
                 "enemy_material_id_name":"絵巻",
                 "boss_material":"北風のしっぽ",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":963,
                 "atk":23,
                 "def":72,
-                "固有ステータス":"治療効果バフ（％）"
+                "special_ascension_type":"治療効果バフ（％）"
             },
             "special_dish":[
                 "アシタナシ",
@@ -146,13 +146,13 @@
                 "talent_material_id_name":"詩文",
                 "enemy_material_id_name":"スライム",
                 "boss_material":"北風のしっぽ",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":820,
                 "atk":21,
                 "def":52,
-                "固有ステータス":"元素チャージ効率（％）"
+                "special_ascension_type":"元素チャージ効率（％）"
             },
             "special_dish":[
                 "真・風神ヒュッツポット",
@@ -173,13 +173,13 @@
                 "talent_material_id_name":"抗争",
                 "enemy_material_id_name":"仮面",
                 "boss_material":"東風の羽根",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1144,
                 "atk":19,
                 "def":60,
-                "固有ステータス":"治療効果バフ（％）"
+                "special_ascension_type":"治療効果バフ（％）"
             },
             "special_dish":[
                 "眠気覚ましピザ",
@@ -200,13 +200,13 @@
                 "talent_material_id_name":"抗争",
                 "enemy_material_id_name":"仮面",
                 "boss_material":"東風の吐息",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":912,
                 "atk":18,
                 "def":57,
-                "固有ステータス":"攻撃力（％）"
+                "special_ascension_type":"攻撃力（％）"
             },
             "special_dish":[
                 "",""
@@ -226,13 +226,13 @@
                 "talent_material_id_name":"",
                 "enemy_material_id_name":"仮面",
                 "boss_material":"東風の吐息",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":912,
                 "atk":18,
                 "def":57,
-                "固有ステータス":"攻撃力（％）"
+                "special_ascension_type":"攻撃力（％）"
             },
             "special_dish":[
                 "",""
@@ -255,13 +255,13 @@
                 "talent_material_id_name":"繁栄",
                 "enemy_material_id_name":"蜜",
                 "boss_material":"北風のリング",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1020,
                 "atk":25,
                 "def":62,
-                "固有ステータス":"会心ダメージ（％）"
+                "special_ascension_type":"会心ダメージ（％）"
             },
             "special_dish":[
                 "九死一生の焼き魚",
@@ -282,13 +282,13 @@
                 "talent_material_id_name":"抗争",
                 "enemy_material_id_name":"鴉マーク",
                 "boss_material":"東風の羽根",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1039,
                 "atk":16,
                 "def":65,
-                "固有ステータス":"元素チャージ効率"
+                "special_ascension_type":"元素チャージ効率"
             },
             "special_dish":[
                 "テイワット風焦げ卵",
@@ -309,13 +309,13 @@
                 "talent_material_id_name":"勤労",
                 "enemy_material_id_name":"スライム",
                 "boss_material":"東風の爪",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":912,
                 "atk":19,
                 "def":56,
-                "固有ステータス":"元素熟知"
+                "special_ascension_type":"元素熟知"
             },
             "special_dish":[
                 "万民堂水煮魚",
@@ -336,13 +336,13 @@
                 "talent_material_id_name":"自由",
                 "enemy_material_id_name":"矢先",
                 "boss_material":"東風の吐息",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":793,
                 "atk":19,
                 "def":50,
-                "固有ステータス":"攻撃力（％）"
+                "special_ascension_type":"攻撃力（％）"
             },
             "special_dish":[
                 "偵察騎士ステーキ！",
@@ -366,13 +366,13 @@
                 "talent_material_id_name":"黄金",
                 "enemy_material_id_name":"仮面",
                 "boss_material":"北風のしっぽ",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":857,
                 "atk":17,
                 "def":64,
-                "固有ステータス":"atk"
+                "special_ascension_type":"atk"
             },
             "special_dish":[
                 "江湖百味",
@@ -393,13 +393,13 @@
                 "talent_material_id_name":"自由",
                 "enemy_material_id_name":"絵巻",
                 "boss_material":"北風のリング",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":821,
                 "atk":37,
                 "def":56,
-                "固有ステータス":"HP（％）"
+                "special_ascension_type":"HP（％）"
             },
             "special_dish":[
                 "スパイシーポトフ",
@@ -420,13 +420,13 @@
                 "talent_material_id_name":"勤労",
                 "enemy_material_id_name":"仮面",
                 "boss_material":"東風の吐息",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":921,
                 "atk":18,
                 "def":54,
-                "固有ステータス":"攻撃力（％）"
+                "special_ascension_type":"攻撃力（％）"
             },
             "special_dish":[
                 "山幸の冷やし麺",
@@ -447,13 +447,13 @@
                 "talent_material_id_name":"自由",
                 "enemy_material_id_name":"矢先",
                 "boss_material":"魔王の刃・残片",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":802,
                 "atk":18,
                 "def":50,
-                "固有ステータス":"氷元素ダメージバフ（％）"
+                "special_ascension_type":"氷元素ダメージバフ（％）"
             },
             "special_dish":[
                 "絶対オツマミじゃない",
@@ -474,13 +474,13 @@
                 "talent_material_id_name":"詩文",
                 "enemy_material_id_name":"鴉マーク",
                 "boss_material":"北風の魂箱",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":976,
                 "atk":19,
                 "def":66,
-                "固有ステータス":"元素チャージ効率（％）"
+                "special_ascension_type":"元素チャージ効率（％）"
             },
             "special_dish":[
                 "フルーティな串焼き",
@@ -501,13 +501,13 @@
                 "talent_material_id_name":"自由",
                 "enemy_material_id_name":"蜜",
                 "boss_material":"北風の魂箱",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":775,
                 "atk":14,
                 "def":59,
-                "固有ステータス":"風元素ダメージバフ（％）"
+                "special_ascension_type":"風元素ダメージバフ（％）"
             },
             "special_dish":[
                 "五九三式栄養食",
@@ -528,13 +528,13 @@
                 "talent_material_id_name":"繁栄",
                 "enemy_material_id_name":"記章",
                 "boss_material":"北風の魂箱",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":821,
                 "atk":41,
                 "def":48,
-                "固有ステータス":"岩元素ダメージバフ（％）"
+                "special_ascension_type":"岩元素ダメージバフ（％）"
             },
             "special_dish":[
                 "乾坤モラミート",
@@ -555,13 +555,13 @@
                 "talent_material_id_name":"抗争",
                 "enemy_material_id_name":"仮面",
                 "boss_material":"東風の爪",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1012,
                 "atk":16,
                 "def":67,
-                "固有ステータス":"防御力（％）"
+                "special_ascension_type":"防御力（％）"
             },
             "special_dish":[
                 "ふわふわパンケーキ",
@@ -582,13 +582,13 @@
                 "talent_material_id_name":"詩文",
                 "enemy_material_id_name":"矢先",
                 "boss_material":"北風の魂箱",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":770,
                 "atk":21,
                 "def":50,
-                "固有ステータス":"攻撃力（％）"
+                "special_ascension_type":"攻撃力（％）"
             },
             "special_dish":[
                 "祈聖シンフォニー",
@@ -609,13 +609,13 @@
                 "talent_material_id_name":"抗争",
                 "enemy_material_id_name":"仮面",
                 "boss_material":"東風の爪",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1003,
                 "atk":20,
                 "def":63,
-                "固有ステータス":"物理ダメージ（％）"
+                "special_ascension_type":"物理ダメージ（％）"
             },
             "special_dish":[
                 "ツメ型ハッシュドポテト",
@@ -636,13 +636,13 @@
                 "talent_material_id_name":"黄金",
                 "enemy_material_id_name":"鴉マーク",
                 "boss_material":"東風の吐息",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":1094,
                 "atk":19,
                 "def":54,
-                "固有ステータス":"雷元素ダメージバフ（％）"
+                "special_ascension_type":"雷元素ダメージバフ（％）"
             },
             "special_dish":[
                 "豚肉の唐辛子炒め",
@@ -663,13 +663,13 @@
                 "talent_material_id_name":"詩文",
                 "enemy_material_id_name":"スライム",
                 "boss_material":"東風の爪",
-                "":"知恵の冠"
+                "crown":"知恵の冠"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "hp":802,
                 "atk":43,
                 "def":48,
-                "固有ステータス":"元素熟知"
+                "special_ascension_type":"元素熟知"
             },
             "special_dish":[
                 "魔法のミートソース",
@@ -690,9 +690,10 @@
                 "1":"地脈",
                 "2":"スライム"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":122,
-                "元素チャージ効率（％）":21.2
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":21.2
             }
         },
         {
@@ -704,9 +705,10 @@
                 "1":"角笛",
                 "2":"矢先"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":133,
-                "物理ダメージバフ（％）":15.9
+                "special_ascension_type":"物理ダメージバフ（％）",
+                "special_ascension_value":15.9
             }
         },
         {
@@ -718,9 +720,10 @@
                 "1":"角笛",
                 "2":"矢先"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":99,
-                "元素チャージ効率（％）":23.6
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":23.6
             }
         },
         {
@@ -732,9 +735,10 @@
                 "1":"地脈",
                 "2":"スライム"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":109,
-                "攻撃力（％）":15.9
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":15.9
             }
         },
         {
@@ -746,9 +750,10 @@
                 "1":"混沌",
                 "2":"絵巻"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":99,
-                "元素チャージ効率（％）":23.6
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":23.6
             }
         },
         {
@@ -760,9 +765,10 @@
                 "1":"刀",
                 "2":"鴉マーク"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":109,
-                "攻撃力（％）":15.9
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":15.9
             }
         },
         {
@@ -774,9 +780,10 @@
                 "1":"角笛",
                 "2":"仮面"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":109,
-                "攻撃力（％）":15.9
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":15.9
             }
         },
         {
@@ -788,9 +795,10 @@
                 "1":"霧虚ろ",
                 "2":"記章"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":119,
-                "物理ダメージバフ（％）":13.3
+                "special_ascension_type":"物理ダメージバフ（％）",
+                "special_ascension_value":13.3
             }
         },
         {
@@ -802,9 +810,10 @@
                 "1":"骨片",
                 "2":"蜜"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":109,
-                "元素熟知":64
+                "special_ascension_type":"元素熟知",
+                "special_ascension_value":64
             }
         },
         {
@@ -816,9 +825,10 @@
                 "1":"刀",
                 "2":"矢先"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":119,
-                "会心ダメージ（％）":14.1
+                "special_ascension_type":"会心ダメージ（％）",
+                "special_ascension_value":14.1
             }
         },
         {
@@ -830,23 +840,1015 @@
                 "1":"地脈",
                 "2":"スライム"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":109,
-                "会心率（％）":10.6
+                "special_ascension_type":"会心率（％）",
+                "special_ascension_value":10.6
             }
         },
         {
             "name":"降臨の剣",
-            "rarity":94,
+            "rarity":4,
             "weapon":"片手剣",
             "weapon_material_id_name":"凛風奔狼",
             "enemy_material":{
                 "1":"地脈",
                 "2":"鴉マーク"
             },
-            "lv1_stats":{
+            "lv1_status":{
                 "atk":94,
-                "攻撃力（％）":13.5
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":13.5
+            }
+        },
+        {
+            "name":"旅道の剣",
+            "rarity":3,
+            "weapon":"片手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":102,
+                "special_ascension_type":"防御力（％）",
+                "special_ascension_value":11.3
+            }
+        },
+        {
+            "name":"チ虎魚の刀",
+            "rarity":3,
+            "weapon":"片手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":13.5
+            }
+        },
+        {
+            "name":"暗鉄剣",
+            "rarity":3,
+            "weapon":"片手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"元素熟知",
+                "special_ascension_value":54
+            }
+        },
+        {
+            "name":"冷刃",
+            "rarity":3,
+            "weapon":"片手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":13.5
+            }
+        },
+        {
+            "name":"黎明の神剣",
+            "rarity":3,
+            "weapon":"片手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"会心ダメージ（％）",
+                "special_ascension_value":18.0
+            }
+        },
+        {
+            "name":"飛天御剣",
+            "rarity":3,
+            "weapon":"片手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":86,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":20.0
+            }
+        },
+        {
+            "name":"狼の末路",
+            "rarity":5,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":122,
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":19.1
+            }
+        },
+        {
+            "name":"天空の傲",
+            "rarity":5,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"凛風奔狼",
+            "enemy_material":{
+                "1":"地脈",
+                "2":"スライム"
+            },
+            "lv1_status":{
+                "atk":133,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":14.1
+            }
+        },
+        {
+            "name":"西風大剣",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":99,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":23.6
+            }
+        },
+        {
+            "name":"鐘の剣",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":109,
+                "special_ascension_type":"HP（％）",
+                "special_ascension_value":15.9
+            }
+        },
+        {
+            "name":"祭礼の大剣",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":119,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":11.8
+            }
+        },
+        {
+            "name":"雨裁",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":109,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":64
+            }
+        },
+        {
+            "name":"旧貴族大剣",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":119,
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":10.6
+            }
+        },
+        {
+            "name":"古華・試作",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":119,
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":10.6
+            }
+        },
+        {
+            "name":"白影の剣",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":109,
+                "special_ascension_type":"防御力（％）",
+                "special_ascension_value":19.9
+            }
+        },
+        {
+            "name":"黒岩の斬刀",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":109,
+                "special_ascension_type":"会心ダメージ（％）",
+                "special_ascension_value":21.2
+            }
+        },
+        {
+            "name":"螭龍の剣",
+            "rarity":4,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":109,
+                "special_ascension_type":"会心率（％）",
+                "special_ascension_value":10.6
+            }
+        },
+        {
+            "name":"飛天大御剣",
+            "rarity":3,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"物理ダメージバフ（％）",
+                "special_ascension_value":16.9
+            }
+        },
+        {
+            "name":"白鉄の大剣",
+            "rarity":3,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"防御力（％）",
+                "special_ascension_value":16.9
+            }
+        },
+        {
+            "name":"鉄影段平",
+            "rarity":3,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"HP（％）",
+                "special_ascension_value":13.5
+            }
+        },
+        {
+            "name":"龍血を帯びた剣",
+            "rarity":3,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":86,
+                "special_ascension_type":"元素熟知",
+                "special_ascension_value":76
+            }
+        },
+        {
+            "name":"理屈責め",
+            "rarity":3,
+            "weapon":"両手剣",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":13.5
+            }
+        },
+        {
+            "name":"和璞鳶",
+            "rarity":5,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"孤雲寒林",
+            "enemy_material":{
+                "1":"刀",
+                "2":"記章"
+            },
+            "lv1_status":{
+                "atk":133,
+                "special_ascension_type":"会心率（％）",
+                "special_ascension_value":8.5
+            }
+        },
+        {
+            "name":"天空の脊",
+            "rarity":5,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"獅牙戦士",
+            "enemy_material":{
+                "1":"混沌",
+                "2":"絵巻"
+            },
+            "lv1_status":{
+                "atk":133,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":14.1
+            }
+        },
+        {
+            "name":"匣中滅龍",
+            "rarity":4,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"霧海雲間",
+            "enemy_material":{
+                "1":"霧虚ろ",
+                "2":"絵巻"
+            },
+            "lv1_status":{
+                "atk":99,
+                "special_ascension_type":"元素熟知",
+                "special_ascension_value":85
+            }
+        },
+        {
+            "name":"西風長槍",
+            "rarity":4,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":119,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":11.8
+            }
+        },
+        {
+            "name":"星鎌・試作",
+            "rarity":4,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":109,
+                "special_ascension_type":"元素チャージ効率（％）",
+                "special_ascension_value":17.7
+            }
+        },
+        {
+            "name":"流月の針",
+            "rarity":4,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":119,
+                "special_ascension_type":"物理ダメージバフ（％）",
+                "special_ascension_value":13.3
+            }
+        },
+        {
+            "name":"黒岩の突槍",
+            "rarity":4,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":109,
+                "special_ascension_type":"会心ダメージ（％）",
+                "special_ascension_value":21.2
+            }
+        },
+        {
+            "name":"死闘の槍",
+            "rarity":4,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":99,
+                "special_ascension_type":"会心率（％）",
+                "special_ascension_value":14.1
+            }
+        },
+        {
+            "name":"鉾槍",
+            "rarity":3,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":102,
+                "special_ascension_type":"攻撃力（％）",
+                "special_ascension_value":9.0
+            }
+        },
+        {
+            "name":"白纓槍",
+            "rarity":3,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":94,
+                "special_ascension_type":"会心率（％）",
+                "special_ascension_value":9.0
+            }
+        },
+        {
+            "name":"黒纓槍",
+            "rarity":3,
+            "weapon":"長柄武器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":86,
+                "special_ascension_type":"HP（％）",
+                "special_ascension_value":18.0
+            }
+        },
+        {
+            "name":"",
+            "rarity":5,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":5,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":5,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"法器",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":5,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":5,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":4,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
+            }
+        },
+        {
+            "name":"",
+            "rarity":3,
+            "weapon":"弓",
+            "weapon_material_id_name":"",
+            "enemy_material":{
+                "1":"",
+                "2":""
+            },
+            "lv1_status":{
+                "atk":,
+                "special_ascension_type":"",
+                "special_ascension_value":
             }
         }
     ],
@@ -945,7 +1947,7 @@
                 ]
             },
             {
-                "id_name":"獅子戦士",
+                "id_name":"獅牙戦士",
                 "1":"獅牙戦士の枷",
                 "2":"獅牙戦士の鎖",
                 "3":"獅牙戦士の手錠",
