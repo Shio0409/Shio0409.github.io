@@ -1,14 +1,15 @@
 {
-    "character":{
-        "クレー":{
+    "character":[
+        {
+            "name":"クレー",
             "rarity":5,
             "element":"炎",
             "weapon":"法器",
             "local_specialty":"慕風のマッシュルーム",
-            "enemy_material":"絵巻",
+            "enemy_material_id_name":"絵巻",
             "talent_material":{
-                "talent_material":"自由",
-                "enemy_material":"絵巻",
+                "talent_material_id_name":"自由",
+                "enemy_material_id_name":"絵巻",
                 "boss_material":"北風のリング",
                 "":"知恵の冠"
             },
@@ -26,15 +27,16 @@
             "birth":"7/27",
             "voice_actor":"久野美咲"
         },
-        "ディルック":{
+        {
+            "name":"ディルック",
             "rarity":5,
             "element":"炎",
             "weapon":"両手剣",
             "local_specialty":"イグサ",
-            "enemy_material":"記章",
+            "enemy_material_id_name":"記章",
             "talent_material":{
-                "talent_material":"抗争",
-                "enemy_material":"記章",
+                "talent_material_id_name":"抗争",
+                "enemy_material_id_name":"記章",
                 "boss_material":"東風の羽根",
                 "":"知恵の冠"
             },
@@ -52,15 +54,16 @@
             "birth":"4/30",
             "voice_actor":"小野賢章"
         },
-        "モナ":{
+        {
+            "name":"モナ",
             "rarity":5,
             "element":"水",
             "weapon":"法器",
             "local_specialty":"慕風のマッシュルーム",
-            "enemy_material":"蜜",
+            "enemy_material_id_name":"蜜",
             "talent_material":{
-                "talent_material":"抗争",
-                "enemy_material":"蜜",
+                "talent_material_id_name":"抗争",
+                "enemy_material_id_name":"蜜",
                 "boss_material":"北風のリング",
                 "":"知恵の冠"
             },
@@ -78,15 +81,16 @@
             "birth":"8/31",
             "voice_actor":"小原好美"
         },
-        "タルタリヤ":{
+        {
+            "name":"タルタリヤ",
             "rarity":5,
             "element":"水",
             "weapon":"弓",
             "local_specialty":"星螺",
-            "enemy_material":"記章",
+            "enemy_material_id_name":"記章",
             "talent_material":{
-                "talent_material":"自由",
-                "enemy_material":"記章",
+                "talent_material_id_name":"自由",
+                "enemy_material_id_name":"記章",
                 "boss_material":"魔王の刃・残片",
                 "":"知恵の冠"
             },
@@ -104,15 +108,16 @@
             "birth":"7/20",
             "voice_actor":"木村良平"
         },
-        "七七":{
+        {
+            "name":"七七",
             "rarity":5,
             "element":"氷",
             "weapon":"片手剣",
             "local_specialty":"瑠璃袋",
-            "enemy_material":"絵巻",
+            "enemy_material_id_name":"絵巻",
             "talent_material":{
-                "talent_material":"繁栄",
-                "enemy_material":"絵巻",
+                "talent_material_id_name":"繁栄",
+                "enemy_material_id_name":"絵巻",
                 "boss_material":"北風のしっぽ",
                 "":"知恵の冠"
             },
@@ -130,15 +135,16 @@
             "birth":"3/3",
             "voice_actor":"田村ゆかり"
         },
-        "ウェンチィ":{
+        {
+            "name":"ウェンティ",
             "rarity":5,
             "element":"風",
             "weapon":"弓",
             "local_specialty":"セシリアの花",
-            "enemy_material":"スライム",
+            "enemy_material_id_name":"スライム",
             "talent_material":{
-                "talent_material":"詩文",
-                "enemy_material":"スライム",
+                "talent_material_id_name":"詩文",
+                "enemy_material_id_name":"スライム",
                 "boss_material":"北風のしっぽ",
                 "":"知恵の冠"
             },
@@ -156,15 +162,16 @@
             "birth":"6/16",
             "voice_actor":"村瀬歩"
         },
-        "ジン":{
+        {
+            "name":"ジン",
             "rarity":5,
             "element":"風",
             "weapon":"片手剣",
             "local_specialty":"蒲公英の種",
-            "enemy_material":"仮面",
+            "enemy_material_id_name":"仮面",
             "talent_material":{
-                "talent_material":"抗争",
-                "enemy_material":"仮面",
+                "talent_material_id_name":"抗争",
+                "enemy_material_id_name":"仮面",
                 "boss_material":"東風の羽根",
                 "":"知恵の冠"
             },
@@ -182,15 +189,16 @@
             "birth":"3/14",
             "voice_actor":"斎藤千和"
         },
-        "主人公（風）":{
+        {
+            "name":"主人公（風）",
             "rarity":5,
             "element":"風",
             "weapon":"片手剣",
             "local_specialty":"風車アスター",
-            "enemy_material":"仮面",
+            "enemy_material_id_name":"仮面",
             "talent_material":{
-                "talent_material":"抗争",
-                "enemy_material":"仮面",
+                "talent_material_id_name":"抗争",
+                "enemy_material_id_name":"仮面",
                 "boss_material":"東風の吐息",
                 "":"知恵の冠"
             },
@@ -207,15 +215,16 @@
             "birth":"",
             "voice_actor":"堀江瞬・悠木碧"
         },
-        "主人公（岩）":{
+        {
+            "name":"主人公（岩）",
             "rarity":5,
             "element":"岩",
             "weapon":"片手剣",
             "local_specialty":"風車アスター",
-            "enemy_material":"仮面",
+            "enemy_material_id_name":"仮面",
             "talent_material":{
-                "talent_material":"",
-                "enemy_material":"仮面",
+                "talent_material_id_name":"",
+                "enemy_material_id_name":"仮面",
                 "boss_material":"東風の吐息",
                 "":"知恵の冠"
             },
@@ -232,18 +241,19 @@
             "birth":"",
             "voice_actor":"堀江瞬・悠木碧"
         },
-        "鐘離":{
-
+        {
+            "name":"鐘離"
         },
-        "刻晴":{
+        {
+            "name":"刻晴",
             "rarity":5,
             "element":"雷",
             "weapon":"片手剣",
             "local_specialty":"石珀",
-            "enemy_material":"蜜",
+            "enemy_material_id_name":"蜜",
             "talent_material":{
-                "talent_material":"繁栄",
-                "enemy_material":"蜜",
+                "talent_material_id_name":"繁栄",
+                "enemy_material_id_name":"蜜",
                 "boss_material":"北風のリング",
                 "":"知恵の冠"
             },
@@ -254,21 +264,23 @@
                 "固有ステータス":"会心ダメージ（％）"
             },
             "special_dish":[
-                "九死一生の焼き魚":"チ虎魚焼き"
+                "九死一生の焼き魚",
+                "チ虎魚焼き"
             ],
             "constellation":"紫金錘重座",
             "birth":"11/22",
             "voice_actor":"喜多村英梨"
         },
-        "ベネット":{
+        {
+            "name":"ベネット",
             "rarity":4,
             "element":"炎",
             "weapon":"片手剣",
             "local_specialty":"風車アスター",
-            "enemy_material":"鴉マーク",
+            "enemy_material_id_name":"鴉マーク",
             "talent_material":{
-                "talent_material":"抗争",
-                "enemy_material":"鴉マーク",
+                "talent_material_id_name":"抗争",
+                "enemy_material_id_name":"鴉マーク",
                 "boss_material":"東風の羽根",
                 "":"知恵の冠"
             },
@@ -286,15 +298,16 @@
             "birth":"2/29",
             "voice_actor":"逢坂良太"
         },
-        "香菱":{
+        {
+            "name":"香菱",
             "rarity":4,
             "element":"炎",
             "weapon":"長柄武器",
             "local_specialty":"絶雲の唐辛子",
-            "enemy_material":"スライム",
+            "enemy_material_id_name":"スライム",
             "talent_material":{
-                "talent_material":"勤労",
-                "enemy_material":"スライム",
+                "talent_material_id_name":"勤労",
+                "enemy_material_id_name":"スライム",
                 "boss_material":"東風の爪",
                 "":"知恵の冠"
             },
@@ -312,15 +325,16 @@
             "birth":"11/2",
             "voice_actor":"小澤亜李"
         },
-        "アンバー":{
+        {
+            "name":"アンバー",
             "rarity":4,
             "element":"炎",
             "weapon":"弓",
             "local_specialty":"イグサ",
-            "enemy_material":"矢先",
+            "enemy_material_id_name":"矢先",
             "talent_material":{
-                "talent_material":"自由",
-                "enemy_material":"矢先",
+                "talent_material_id_name":"自由",
+                "enemy_material_id_name":"矢先",
                 "boss_material":"東風の吐息",
                 "":"知恵の冠"
             },
@@ -338,18 +352,19 @@
             "birth":"8/10",
             "voice_actor":"石見舞菜香"
         },
-        "辛炎":{
-
+        {
+            "name":"辛炎"
         },
-        "行秋":{
+        {
+            "name":"行秋",
             "rarity":4,
             "element":"水",
             "weapon":"片手剣",
             "local_specialty":"霓裳花",
-            "enemy_material":"仮面",
+            "enemy_material_id_name":"仮面",
             "talent_material":{
-                "talent_material":"黄金",
-                "enemy_material":"仮面",
+                "talent_material_id_name":"黄金",
+                "enemy_material_id_name":"仮面",
                 "boss_material":"北風のしっぽ",
                 "":"知恵の冠"
             },
@@ -367,15 +382,16 @@
             "birth":"10/9",
             "voice_actor":"皆川純子"
         },
-        "バーバラ":{
+        {
+            "name":"バーバラ",
             "rarity":4,
             "element":"水",
             "weapon":"法器",
             "local_specialty":"慕風のマッシュルーム",
-            "enemy_material":"絵巻",
+            "enemy_material_id_name":"絵巻",
             "talent_material":{
-                "talent_material":"自由",
-                "enemy_material":"絵巻",
+                "talent_material_id_name":"自由",
+                "enemy_material_id_name":"絵巻",
                 "boss_material":"北風のリング",
                 "":"知恵の冠"
             },
@@ -393,15 +409,16 @@
             "birth":"7/5",
             "voice_actor":"鬼頭明里"
         },
-        "重雲":{
+        {
+            "name":"重雲",
             "rarity":4,
             "element":"氷",
             "weapon":"両手剣",
             "local_specialty":"石珀",
-            "enemy_material":"仮面",
+            "enemy_material_id_name":"仮面",
             "talent_material":{
-                "talent_material":"勤労",
-                "enemy_material":"仮面",
+                "talent_material_id_name":"勤労",
+                "enemy_material_id_name":"仮面",
                 "boss_material":"東風の吐息",
                 "":"知恵の冠"
             },
@@ -419,15 +436,16 @@
             "birth":"9/7",
             "voice_actor":"斉藤壮馬"
         },
-        "ディオナ":{
+        {
+            "name":"ディオナ",
             "rarity":4,
             "element":"氷",
             "weapon":"弓",
             "local_specialty":"ドドリアン",
-            "enemy_material":"矢先",
+            "enemy_material_id_name":"矢先",
             "talent_material":{
-                "talent_material":"自由",
-                "enemy_material":"矢先",
+                "talent_material_id_name":"自由",
+                "enemy_material_id_name":"矢先",
                 "boss_material":"魔王の刃・残片",
                 "":"知恵の冠"
             },
@@ -445,15 +463,16 @@
             "birth":"1/18",
             "voice_actor":"井澤詩織"
         },
-        "ガイア":{
+        {
+            "name":"ガイア",
             "rarity":4,
             "element":"氷",
             "weapon":"片手剣",
             "local_specialty":"ドドリアン",
-            "enemy_material":"鴉マーク",
+            "enemy_material_id_name":"鴉マーク",
             "talent_material":{
-                "talent_material":"詩文",
-                "enemy_material":"鴉マーク",
+                "talent_material_id_name":"詩文",
+                "enemy_material_id_name":"鴉マーク",
                 "boss_material":"北風の魂箱",
                 "":"知恵の冠"
             },
@@ -471,15 +490,16 @@
             "birth":"11/30",
             "voice_actor":"鳥海浩輔"
         },
-        "スクロース":{
+        {
+            "name":"スクロース",
             "rarity":4,
             "element":"風",
             "weapon":"法器",
             "local_specialty":"風車アスター",
-            "enemy_material":"蜜",
+            "enemy_material_id_name":"蜜",
             "talent_material":{
-                "talent_material":"自由",
-                "enemy_material":"蜜",
+                "talent_material_id_name":"自由",
+                "enemy_material_id_name":"蜜",
                 "boss_material":"北風の魂箱",
                 "":"知恵の冠"
             },
@@ -497,15 +517,16 @@
             "birth":"11/26",
             "voice_actor":"藤田茜"
         },
-        "凝光":{
+        {
+            "name":"凝光",
             "rarity":4,
             "element":"岩",
             "weapon":"法器",
             "local_specialty":"瑠璃百合",
-            "enemy_material":"記章",
+            "enemy_material_id_name":"記章",
             "talent_material":{
-                "talent_material":"繁栄",
-                "enemy_material":"記章",
+                "talent_material_id_name":"繁栄",
+                "enemy_material_id_name":"記章",
                 "boss_material":"北風の魂箱",
                 "":"知恵の冠"
             },
@@ -523,15 +544,16 @@
             "birth":"8/26",
             "voice_actor":"大原さやか"
         },
-        "ノエル":{
+        {
+            "name":"ノエル",
             "rarity":4,
             "element":"岩",
             "weapon":"両手剣",
             "local_specialty":"ヴァルベリー",
-            "enemy_material":"仮面",
+            "enemy_material_id_name":"仮面",
             "talent_material":{
-                "talent_material":"抗争",
-                "enemy_material":"仮面",
+                "talent_material_id_name":"抗争",
+                "enemy_material_id_name":"仮面",
                 "boss_material":"東風の爪",
                 "":"知恵の冠"
             },
@@ -549,15 +571,16 @@
             "birth":"3/21",
             "voice_actor":"高雄奏音"
         },
-        "フィッシュル":{
+        {
+            "name":"フィッシュル",
             "rarity":4,
             "element":"雷",
             "weapon":"弓",
             "local_specialty":"イグサ",
-            "enemy_material":"矢先",
+            "enemy_material_id_name":"矢先",
             "talent_material":{
-                "talent_material":"詩文",
-                "enemy_material":"矢先",
+                "talent_material_id_name":"詩文",
+                "enemy_material_id_name":"矢先",
                 "boss_material":"北風の魂箱",
                 "":"知恵の冠"
             },
@@ -575,15 +598,16 @@
             "birth":"5/27",
             "voice_actor":"内田真礼・増谷康紀"
         },
-        "レザー":{
+        {
+            "name":"レザー",
             "rarity":4,
             "element":"雷",
             "weapon":"両手剣",
             "local_specialty":"ググプラム",
-            "enemy_material":"仮面",
+            "enemy_material_id_name":"仮面",
             "talent_material":{
-                "talent_material":"抗争",
-                "enemy_material":"仮面",
+                "talent_material_id_name":"抗争",
+                "enemy_material_id_name":"仮面",
                 "boss_material":"東風の爪",
                 "":"知恵の冠"
             },
@@ -601,15 +625,16 @@
             "birth":"9/9",
             "voice_actor":"内山昂輝"
         },
-        "北斗":{
+        {
+            "name":"北斗",
             "rarity":4,
             "element":" 雷",
             "weapon":"両手剣",
             "local_specialty":"夜泊石",
-            "enemy_material":"鴉マーク",
+            "enemy_material_id_name":"鴉マーク",
             "talent_material":{
-                "talent_material":"黄金",
-                "enemy_material":"鴉マーク",
+                "talent_material_id_name":"黄金",
+                "enemy_material_id_name":"鴉マーク",
                 "boss_material":"東風の吐息",
                 "":"知恵の冠"
             },
@@ -627,15 +652,16 @@
             "birth":"2/14",
             "voice_actor":"小清水亜美"
         },
-        "リサ":{
+        {
+            "name":"リサ",
             "rarity":4,
             "element":"雷",
             "weapon":"法器",
             "local_specialty":"ヴァルベリー",
-            "enemy_material":"スライム",
+            "enemy_material_id_name":"スライム",
             "talent_material":{
-                "talent_material":"詩文",
-                "enemy_material":"スライム",
+                "talent_material_id_name":"詩文",
+                "enemy_material_id_name":"スライム",
                 "boss_material":"東風の爪",
                 "":"知恵の冠"
             },
@@ -653,25 +679,13 @@
             "birth":"6/9",
             "voice_actor":"田中理恵"
         }
-    },
-    "weapon":{
-        "":{
-            "rarity":,
-            "weapon":"",
-            "weapon_material":"",
-            "enemy_material":{
-                "1":"",
-                "2":""
-            },
-            "lv1_stats":{
-                "atk":,
-                "":
-            }
-        },
-        "天空の刃":{
+    ],
+    "weapon":[
+        {
+            "name":"天空の刃",
             "rarity":5,
             "weapon":"片手剣",
-            "weapon_material":"凛風奔狼",
+            "weapon_material_id_name":"凛風奔狼",
             "enemy_material":{
                 "1":"地脈",
                 "2":"スライム"
@@ -681,10 +695,11 @@
                 "元素チャージ効率（％）":21.2
             }
         },
-        "風鷹剣":{
+        {
+            "name":"風鷹剣",
             "rarity":5,
             "weapon":"片手剣",
-            "weapon_material":"高塔の王",
+            "weapon_material_id_name":"高塔の王",
             "enemy_material":{
                 "1":"角笛",
                 "2":"矢先"
@@ -694,10 +709,11 @@
                 "物理ダメージバフ（％）":15.9
             }
         },
-        "西風剣":{
+        {
+            "name":"西風剣",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"高塔の王",
+            "weapon_material_id_name":"高塔の王",
             "enemy_material":{
                 "1":"角笛",
                 "2":"矢先"
@@ -707,10 +723,11 @@
                 "元素チャージ効率（％）":23.6
             }
         },
-        "笛の剣":{
+        {
+            "name":"笛の剣",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"凛風奔狼",
+            "weapon_material_id_name":"凛風奔狼",
             "enemy_material":{
                 "1":"地脈",
                 "2":"スライム"
@@ -720,10 +737,11 @@
                 "攻撃力（％）":15.9
             }
         },
-        "祭礼の剣":{
+        {
+            "name":"祭礼の剣",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"獅牙戦士",
+            "weapon_material_id_name":"獅牙戦士",
             "enemy_material":{
                 "1":"混沌",
                 "2":"絵巻"
@@ -733,10 +751,11 @@
                 "元素チャージ効率（％）":23.6
             }
         },
-        "匣中龍吟":{
+        {
+            "name":"匣中龍吟",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"孤雲寒林",
+            "weapon_material_id_name":"孤雲寒林",
             "enemy_material":{
                 "1":"刀",
                 "2":"鴉マーク"
@@ -746,10 +765,11 @@
                 "攻撃力（％）":15.9
             }
         },
-        "旧貴族長剣":{
+        {
+            "name":"旧貴族長剣",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"高塔の王",
+            "weapon_material_id_name":"高塔の王",
             "enemy_material":{
                 "1":"角笛",
                 "2":"仮面"
@@ -759,10 +779,11 @@
                 "攻撃力（％）":15.9
             }
         },
-        "斬岩・試作":{
+        {
+            "name":"斬岩・試作",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"霧海雲間",
+            "weapon_material_id_name":"霧海雲間",
             "enemy_material":{
                 "1":"霧虚ろ",
                 "2":"記章"
@@ -772,10 +793,11 @@
                 "物理ダメージバフ（％）":13.3
             }
         },
-        "鉄蜂の刺し":{
+        {
+            "name":"鉄蜂の刺し",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"漆黒の隕鉄",
+            "weapon_material_id_name":"漆黒の隕鉄",
             "enemy_material":{
                 "1":"骨片",
                 "2":"蜜"
@@ -785,10 +807,11 @@
                 "元素熟知":64
             }
         },
-        "黒岩の長剣":{
+        {
+            "name":"黒岩の長剣",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"孤雲寒林",
+            "weapon_material_id_name":"孤雲寒林",
             "enemy_material":{
                 "1":"刀",
                 "2":"矢先"
@@ -798,10 +821,11 @@
                 "会心ダメージ（％）":14.1
             }
         },
-        "黒剣":{
+        {
+            "name":"黒剣",
             "rarity":4,
             "weapon":"片手剣",
-            "weapon_material":"凛風奔狼",
+            "weapon_material_id_name":"凛風奔狼",
             "enemy_material":{
                 "1":"地脈",
                 "2":"スライム"
@@ -811,10 +835,11 @@
                 "会心率（％）":10.6
             }
         },
-        "降臨の剣":{
+        {
+            "name":"降臨の剣",
             "rarity":94,
             "weapon":"片手剣",
-            "weapon_material":"凛風奔狼",
+            "weapon_material_id_name":"凛風奔狼",
             "enemy_material":{
                 "1":"地脈",
                 "2":"鴉マーク"
@@ -824,60 +849,77 @@
                 "攻撃力（％）":13.5
             }
         }
-    },
+    ],
     "item":{
-        "local_specialty":{
-            "ドドリアン":{
+        "local_specialty":[
+            {
+                "name":"ドドリアン",
                 "location":"モンド"
             },
-            "ググプラム":{
+            {
+                "name":"ググプラム",
                 "location":"モンド"
             },
-            "ヴァルベリー":{
+            {
+                "name":"ヴァルベリー",
                 "location":"モンド"
             },
-            "セシリアの花":{
+            {
+                "name":"セシリアの花",
                 "location":"モンド"
             },
-            "風車アスター":{
+            {
+                "name":"風車アスター",
                 "location":"モンド"
             },
-            "慕風のマッシュルーム":{
+            {
+                "name":"慕風のマッシュルーム",
                 "location":"モンド"
             },
-            "絶雲の唐辛子":{
+            {
+                "name":"絶雲の唐辛子",
                 "location":"璃月"
             },
-            "夜泊石":{
+            {
+                "name":"夜泊石",
                 "location":"璃月"
             },
-            "霓裳花":{
+            {
+                "name":"霓裳花",
                 "location":"璃月"
             },
-            "瑠璃百合":{
+            {
+                "name":"瑠璃百合",
                 "location":"璃月"
             },
-            "清心":{
+            {
+                "name":"清心",
                 "location":"璃月"
             },
-            "星螺":{
+            {
+                "name":"星螺",
                 "location":"璃月"
             },
-            "瑠璃袋":{
+            {
+                "name":"瑠璃袋",
                 "location":"璃月"
             },
-            "イグサ":{
+            {
+                "name":"イグサ",
                 "location":"モンド"
             },
-            "蒲公英の種":{
+            {
+                "name":"蒲公英の種",
                 "location":"モンド"
             },
-            "石珀":{
+            {
+                "name":"石珀",
                 "location":"璃月"
             }
-        },
-        "weapon_material":{
-            "高塔の王":{
+        ],
+        "weapon_material":[
+            {
+                "id_name":"高塔の王",
                 "1":"高塔の王の瓦",
                 "2":"高塔の王の残壁",
                 "3":"高塔の王の断片",
@@ -889,7 +931,8 @@
                     "日"
                 ]
             },
-            "凛風奔狼":{
+            {
+                "id_name":"凛風奔狼",
                 "1":"凛風奔狼の乳歯",
                 "2":"凛風奔狼の砕牙",
                 "3":"凛風奔狼の断牙",
@@ -901,7 +944,8 @@
                     "日"
                 ]
             },
-            "獅子戦士":{
+            {
+                "id_name":"獅子戦士",
                 "1":"獅牙戦士の枷",
                 "2":"獅牙戦士の鎖",
                 "3":"獅牙戦士の手錠",
@@ -913,7 +957,8 @@
                     "日"
                 ]
             },
-            "孤雲寒林":{
+            {
+                "id_name":"孤雲寒林",
                 "1":"孤雲寒林の光砂",
                 "2":"孤雲寒林の輝岩",
                 "3":"孤雲寒林の聖骸",
@@ -925,7 +970,8 @@
                     "日"
                 ]
             },
-            "霧海雲間":{
+            {
+                "id_name":"霧海雲間",
                 "1":"霧海雲間の鉛丹",
                 "2":"霧海雲間の水銀",
                 "3":"霧海雲間の金丹",
@@ -937,7 +983,8 @@
                     "日"
                 ]
             },
-            "漆黒の隕鉄":{
+            {
+                "id_name":"漆黒の隕鉄",
                 "1":"漆黒の隕鉄の一粒",
                 "2":"漆黒の隕鉄の一片",
                 "3":"漆黒の隕鉄の一角",
@@ -949,98 +996,113 @@
                     "日"
                 ]
             }
-        },
-        "enemy_material":{
-            "スライム":{
+        ],
+        "enemy_material":[
+            {
+                "id_name":"スライム",
                 "1":"スライムの液体",
                 "2":"スライムの分泌物",
                 "3":"スライムのピュレ",
-                "enemy":"スライム"
+                "source":"スライム"
             },
-            "仮面":{
+            {
+                "id_name":"仮面",
                 "1":"破損した仮面",
                 "2":"汚れた仮面",
                 "3":"不吉な仮面",
-                "enemy":"ヒルチャール"
+                "source":"ヒルチャール"
             },
-            "矢先":{
+            {
+                "id_name":"矢先",
                 "1":"牢固な矢先",
                 "2":"鋭利な矢先",
                 "3":"歴戦の矢先",
-                "enemy":"ヒルチャール弓使い"
+                "source":"ヒルチャール弓使い"
             },
-            "絵巻":{
+            {
+                "id_name":"絵巻",
                 "1":"占いの絵巻",
                 "2":"封魔の絵巻",
                 "3":"禁呪の絵巻",
-                "enemy":"ヒルチャールシャーマン"
+                "source":"ヒルチャールシャーマン"
             },
-            "角笛":{
+            {
+                "id_name":"角笛",
                 "1":"重い角笛",
                 "2":"黒銅の角笛",
                 "3":"黒晶の角笛",
-                "enemy":"大型ヒルチャール"
+                "source":"大型ヒルチャール"
             },
-            "地脈":{
+            {
+                "id_name":"地脈",
                 "1":"地脈の旧枝",
                 "2":"地脈の枯れ葉",
                 "3":"地脈の新芽",
-                "enemy":"アビスの魔術師"
+                "source":"アビスの魔術師"
             },
-            "霧虚ろ":{
+            {
+                "id_name":"霧虚ろ",
                 "1":"霧虚ろの花粉",
                 "2":"霧虚ろの草嚢",
                 "3":"霧虚ろの灯芯",
-                "enemy":"雷蛍術師"
+                "source":"雷蛍術師"
             },
-            "記章":{
+            {
+                "id_name":"記章",
                 "1":"新兵の記章",
                 "2":"士官の記章",
                 "3":"尉官の記章",
-                "enemy":"先遣隊"
+                "source":"先遣隊"
             },
-            "蜜":{
+            {
+                "id_name":"蜜",
                 "1":"トリックフラワーの蜜",
                 "2":"微光花の蜜",
                 "3":"原素花の蜜",
-                "enemy":"トリックフラワー"
+                "source":"トリックフラワー"
             },
-            "刀":{
+            {
+                "id_name":"刀",
                 "1":"猟兵の刀",
                 "2":"エージェントの刀",
                 "3":"検査官の刀",
-                "enemy":"デットエージェント"
+                "source":"デットエージェント"
             },
-            "骨片":{
+            {
+                "id_name":"骨片",
                 "1":"脆い骨片",
                 "2":"丈夫な骨片",
                 "3":"石化した骨片",
-                "enemy":"ベビーヴィシャップ"
+                "source":"ベビーヴィシャップ"
             },
-            "鴉マーク":{
+            {
+                "id_name":"鴉マーク",
                 "1":"宝探しの鴉マーク",
                 "2":"シルバーの鴉マーク",
                 "3":"ゴールドの鴉マーク",
-                "enemy":"宝盗団"
+                "source":"宝盗団"
             },
-            "混沌":{
+            {
+                "id_name":"混沌",
                 "1":"混沌の装置",
                 "2":"混沌の回路",
                 "3":"混沌の炉心",
-                "enemy":"遺跡守衛・遺跡ハンター"
+                "source":"遺跡守衛・遺跡ハンター"
             }
-        },
-        "boss_material":{
-            "東風の羽根":{
-                "boss":"風魔龍・トワリン",
+        ],
+        "boss_material":[
+            {
+                "name":"東風の羽根",
+                "source":"風魔龍・トワリン",
                 "usage":[
                 "ベネット",
                 "ディルック",
                 "ジン"
                 ]
             },
-            "東風の爪":{
-                "boss":"風魔龍・トワリン",
+            {
+                "name":"東風の爪",
+                "source":"風魔龍・トワリン",
                 "usage":[
                 "香菱",
                 "レザー",
@@ -1048,24 +1110,27 @@
                 "リサ"
                 ]
             },
-            "東風の吐息":{
-                "boss":"風魔龍・トワリン",
+            {
+                "name":"東風の吐息",
+                "source":"風魔龍・トワリン",
                 "usage":[
                 "重雲",
                 "アンバー",
                 "北斗"
                 ]
             },
-            "北風のしっぽ":{
-                "boss":"アンドリアス",
+            {
+                "name":"北風のリング",
+                "source":"アンドリアス",
                 "usage":[
                 "行秋",
                 "ウェンティ",
                 "七七"
                 ]
             },
-            "北風のリング":{
-                "boss":"アンドリアス",
+            {
+                "name":"北風のリング",
+                "source":"アンドリアス",
                 "usage":[
                 "クレー",
                 "モナ",
@@ -1073,8 +1138,9 @@
                 "バーバラ"
                 ]
             },
-            "北風の魂箱":{
-                "boss":"アンドリアス",
+            {
+                "name":"北風の魂箱",
+                "source":"アンドリアス",
                 "usage":[
                 "凝光",
                 "スクロース",
@@ -1082,28 +1148,32 @@
                 "ガイア"
                 ]
             },
-            "呑天鯨・只角":{
-                "boss":"「公子」",
-                "usage":{
-                "":""
-                }
+            {
+                "name":"呑天鯨・只角",
+                "source":"「公子」",
+                "usage":[
+                ""
+                ]
             },
-            "武煉の魂・孤影":{
-                "boss":"「公子」",
+            {
+                "name":"武煉の魂・孤影",
+                "source":"「公子」",
                 "usage":[
                 "ディオナ",
                 "タルタリヤ"
                 ]
             },
-            "魔王の刃・残片":{
-                "boss":"「公子」",
-                "usage":{
-                "":""
-                }
+            {
+                "name":"魔王の刃・残片",
+                "source":"「公子」",
+                "usage":[
+                ""
+                ]
             }
-        },
-        "talent_material":{
-            "自由":{
+        ],
+        "talent_material":[
+            {
+                "id_name":"自由",
                 "1":"「自由」の教え",
                 "2":"「自由」の導き",
                 "3":"「自由」の哲学",
@@ -1114,7 +1184,8 @@
                     "日"
                 ]
             },
-            "抗争":{
+            {
+                "id_name":"抗争",
                 "1":"「抗争」の教え",
                 "2":"「抗争」の導き",
                 "3":"「抗争」の哲学",
@@ -1125,7 +1196,8 @@
                     "日"
                 ]
             },
-            "詩文":{
+            {
+                "id_name":"詩文",
                 "1":"「詩文」の教え",
                 "2":"「詩文」の導き",
                 "3":"「詩文」の哲学",
@@ -1136,7 +1208,8 @@
                     "日"
                 ]
             },
-            "繁栄":{
+            {
+                "id_name":"繁栄",
                 "1":"「繁栄」の教え",
                 "2":"「繁栄」の導き",
                 "3":"「繁栄」の哲学",
@@ -1147,7 +1220,8 @@
                     "日"
                 ]
             },
-            "勤労":{
+            {
+                "id_name":"勤労",
                 "1":"「勤労」の教え",
                 "2":"「勤労」の導き",
                 "3":"「勤労」の哲学",
@@ -1158,7 +1232,8 @@
                     "日"
                 ]
             },
-            "黄金":{
+            {
+                "id_name":"黄金",
                 "1":"「黄金」の教え",
                 "2":"「黄金」の導き",
                 "3":"「黄金」の哲学",
@@ -1169,10 +1244,11 @@
                     "日"
                 ]
             }
-        },
+        ],
         "enhancement_material":{
-            "character_enhancement_material":{
-                "流浪者の経験":{
+            "character_enhancement_material":[
+                {
+                    "name":"流浪者の経験",
                     "exp":1000,
                     "source":[
                         "啓示の花",
@@ -1183,7 +1259,8 @@
                     ],
                     "usage":"キャラのレベルアップ"
                 },
-                "冒険家の経験":{
+                {
+                    "name":"冒険家の経験",
                     "exp":5000,
                     "source":[
                         "啓示の花",
@@ -1194,7 +1271,8 @@
                     ],
                     "usage":"キャラのレベルアップ"
                 },
-                "大英雄の経験":{
+                {
+                    "name":"大英雄の経験",
                     "exp":20000,
                     "source":[
                         "啓示の花",
@@ -1205,9 +1283,10 @@
                     ],
                     "usage":"キャラのレベルアップ"
                 }
-            },
-            "weapon_enhancement_material":{
-                "仕上げ用雑鉱":{
+            ],
+            "weapon_enhancement_material":[
+                {
+                    "name":"仕上げ用雑鉱",
                     "exp":400,
                     "source":[
                         "鋳造",
@@ -1219,7 +1298,8 @@
                     ],
                     "usage":"武器のレベルアップ"
                 },
-                "仕上げ用良鉱":{
+                {
+                    "name":"仕上げ用良鉱",
                     "exp":400,
                     "source":[
                         "鋳造",
@@ -1231,7 +1311,8 @@
                     ],
                     "usage":"武器のレベルアップ"
                 },
-                "仕上げ用魔鉱":{
+                {
+                    "name":"仕上げ用魔鉱",
                     "exp":400,
                     "source":[
                         "宝箱",
@@ -1243,7 +1324,7 @@
                     ],
                     "usage":"武器のレベルアップ"
                 }
-            }
+            ]
         },
         "Mora":{
             "source":[

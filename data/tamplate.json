@@ -7,7 +7,7 @@
             "local_specialty":"",
             "enemy_material":"",
             "talent_material":{
-                "talent_material":"",
+                "talent_material_id_name":"",
                 "enemy_material":"",
                 "boss_material":"",
                 "":"知恵の冠"
@@ -16,10 +16,7 @@
                 "hp":,
                 "atk":,
                 "def":,
-                "固有ステータス":{
-                    "":"",
-                    "$comment":"1~39レベルでは、固有ステータスがないため、40レベルでの初期値です。"
-                }
+                "固有ステータス":""
             },
             "special_dish":{
                 "":""
